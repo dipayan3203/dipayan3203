@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dipayan 👋
+Python Backend Developer | FastAPI | Docker | Redis | AI Automation
 
-<!--
-**dipayan3203/dipayan3203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working at **Accepto Technologies** as a Python Backend Developer  
+🎓 BTech from **NIT Durgapur**  
+⚡ Delivered 30% efficiency gains through AI-driven automation  
+🌱 Currently exploring LLMs and intelligent agent systems  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Python | FastAPI | Django | SQL | Docker | Redis | AWS | React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [FB & Instagram Post Automation](https://github.com/dipayan3203/FB-Insta-Post-Automation)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/dipayan-mahato-5a1551262/)
