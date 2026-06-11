@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dipayan-mahato-5a1551262/">LinkedIn</a> •
   <a href="mailto:dipayanmahato9733@gmail.com">Email</a> •
-  <a href="https://github.com/dipayan3203/trackify">Trackify</a>
+  <a href="tel:+916295623329">+91-6295623329</a> •
+ 
 </p>
 
 ---
