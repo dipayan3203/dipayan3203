@@ -35,10 +35,10 @@ path     : Metallurgy → Backend Engineering → Applied AI
 status   : Open to Backend / AI Engineer roles
 ```
 
-⚡ Unconventional path — from NIT Durgapur research to production AI systems  
-🚀 Shipped APIs serving **10K+ daily requests** with **99.9% uptime**  
-🤖 Hands-on with **LangChain, RAG pipelines, and agentic AI workflows**  
-✂️ Cut workflow processing time by **30%** through intelligent automation  
+⚡ Unconventional path — from NIT Durgapur research to production AI systems
+🚀 Shipped APIs serving **10K+ daily requests** with **99.9% uptime**
+🤖 Hands-on with **LangChain, RAG pipelines, and agentic AI workflows**
+✂️ Cut workflow processing time by **30%** through intelligent automation
 
 ---
 
@@ -105,15 +105,20 @@ status   : Open to Backend / AI Engineer roles
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipayan3203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipayan3203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayan3203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dipayan3203&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </p>
+
+---
+
+### 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipayan3203&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dipayan3203&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7"/>
 </p>
 
 ---
