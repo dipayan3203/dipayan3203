@@ -105,7 +105,7 @@ status   : Open to Backend / AI Engineer roles
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dipayan3203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true&hide=prs,issues,stars&hide_rank=true" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=dipayan3203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true&hide=prs,issues,stars,contribs&hide_rank=true" height="160"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dipayan3203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="160"/>
 </p>
 
