@@ -115,14 +115,6 @@ status   : Open to Backend / AI Engineer roles
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=dipayan3203&theme=tokyonight&no-frame=true&margin-w=8&column=7&title=-PullRequest,-Issues&rank=-?"/>
-</p>
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
