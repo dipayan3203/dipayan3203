@@ -110,7 +110,10 @@ status   : Open to Backend / AI Engineer roles
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayan3203&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img src="https://streak-stats.demolab.com/?user=dipayan3203&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipayan3203&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
 </p>
 
 ---
